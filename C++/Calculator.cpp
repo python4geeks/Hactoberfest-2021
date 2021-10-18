@@ -1,3 +1,7 @@
+//cpp program for a simple calculator
+//Author:Neetu Kumari
+//Date Modified: 18-10-2021
+
 #include<iostream>
 using namespace std;
 
